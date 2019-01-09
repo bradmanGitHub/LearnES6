@@ -20,6 +20,7 @@
     "eslint-plugin-react": "^7.12.3",
     "gulp": "^4.0.0",
     "gulp-babel": "^8.0.0",
-    "gulp-eslint": "^5.0.0"
+    "gulp-eslint": "^5.0.0",
+    "gulp-livereload": "^4.0.1"
   }
 }
